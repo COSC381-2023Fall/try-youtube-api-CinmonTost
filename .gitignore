@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+env3/
+venv3/
+*.venv/
+*.vscode/
+*.idea/
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.out
+*.pyc
+*.pyo
+*.so
+
+# Log files
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Other
+__pycache__/
+*.DS_Store
+*.sqlite3
+*.swp
+*~
